@@ -13,6 +13,7 @@
 
 	<a href="controller.jsp?command=list">글 목록(index)</a>
 	<a href="controller.jsp?command="></a>
+	<h1>나는섹시가이</h1>
 
 </body>
 </html>
